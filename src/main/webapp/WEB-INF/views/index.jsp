@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="empform">Add Employee</a>  
-<a href="viewemp">View Employees</a>
+<a href="empform">New Book</a>  
+<a href="viewemp">Book list</a>
 </body>
 </html>
